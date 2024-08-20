@@ -54,3 +54,15 @@ div {
 .text span {
   font-size: 10vmin;
 }
+        .link {
+            margin-top: 30px;
+            font-size: 18px;
+            background-color: #007BFF;
+            padding: 10px 20px;
+            border-radius: 5px;
+            color: white;
+            text-decoration: none;
+        }
+        .link:hover {
+            background-color: #0056b3;
+        }
